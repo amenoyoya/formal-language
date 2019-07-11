@@ -71,4 +71,10 @@ graph LR
     I -.-> |1|A
     I -.-> |0|E
 ```
-![01automaton](./graph/01automaton.png)
+![01.automaton](./graph/01.automaton.png)
+
+---
+
+### 第一古代語
+
+See [第一古代語](./01.第一古代語.md)
